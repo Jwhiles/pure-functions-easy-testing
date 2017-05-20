@@ -1,3 +1,5 @@
+CHANGING SOMETHING
+
 # Pure functions - easy testing
 One of the biggest benefits of testing your code, is that you will be encouraged to write testable code. Testable code will tend to be predictable, readable, and split into small pure functions.
 
